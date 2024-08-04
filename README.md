@@ -18,9 +18,7 @@ Passionate about computer science with a special love for embedded systems and c
 
 ## Technologies & Tools
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact" alt="Top Languages" style="width: 45%; height: 200px; display: inline-block; vertical-align: top;" />
-<img src="https://github-readme-stats.vercel.app/api?username=nerrison&show_icons=true&hide_title=true" alt="GitHub Stats" style="width: 45%; height: 200px; display: inline-block; vertical-align: top;" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact" alt="Top Languages" style="width: 45%; height: 200px; display: inline-block; vertical-align: baseline;" />
 
 
 ### Tools
@@ -37,11 +35,11 @@ Passionate about computer science with a special love for embedded systems and c
 ## Activity 
 
 <!-- GitHub Activity -->
-<img src="https://github-readme-stats.vercel.app/api/activity?username=nerrison" alt="GitHub Activity" style="width: 45%; height: auto; display: inline-block; vertical-align: top;">
+<img src="https://github-readme-stats.vercel.app/api/activity?username=nerrison" alt="GitHub Activity" style="width: 45%; height: auto; display: inline-block; vertical-align: baseline;">
 
 
-<!-- GitHub Contribution Graph -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nerrison&theme=dark" alt="GitHub Contribution Graph" style="width: 45%; height: auto; display: inline-block; vertical-align: top;">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nerrison&theme=dark" alt="GitHub Contribution Graph" style="width: 45%; height: auto; display: inline; vertical-align: baseline;"> <img src="https://github-readme-stats.vercel.app/api?username=nerrison&show_icons=true&hide_title=true" alt="GitHub Stats" style="width: 45%; height: auto; display: inline; vertical-align: baseline;" />
 
 
 
