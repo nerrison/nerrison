@@ -18,22 +18,33 @@ Passionate about computer science with a special love for embedded systems and c
 
 ## Technologies & Tools
 
-### Top Languages & Tools     
+<div style="display: flex; flex-direction: row; gap: 20px; align-items: flex-start;">
+    <!-- Top Languages -->
+    <div style="flex: 1;">
+        <h3>Top Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact" alt="Top Languages" style="width: 100%;">
+    </div>
+    <!-- Activity -->
+    <div style="flex: 1;">
+        <h3>Activity</h3>
+        <img src="https://github-readme-stats.vercel.app/api/activity?username=nerrison" alt="GitHub Activity" style="width: 100%;">
+    </div>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact)      <div>
+### Tools
+<div>
     <img src="https://img.shields.io/badge/Node.js-gray?style=for-the-badge" alt="Node.js" />
     <img src="https://img.shields.io/badge/TailwindCSS-gray?style=for-the-badge" alt="TailwindCSS" />
     <img src="https://img.shields.io/badge/React-gray?style=for-the-badge" alt="React" />
     <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge" alt="Linux" />
     <img src="https://img.shields.io/badge/macOS-gray?style=for-the-badge" alt="macOS" />
-</div>    
-
-
+</div>
 
 ---
 
 ## Activity
-dynamicaly cuse github bot to update my activites, like push, commmit, created a new public repo etc.
+
+
 
 ---
 
