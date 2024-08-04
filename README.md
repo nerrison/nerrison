@@ -17,10 +17,18 @@ Passionate about computer science with a special love for embedded systems and c
 --- 
 
 ## Technologies & Tools
-(technologies should in a pie chart form an automatically check my repos to draw the picutre on percentages i have used a language the colors should be gray colors)(Tool use labels should be gray, nodejs, tailwindcss, react, linux, macos, )
 
+### Top Langauages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact)
 
+### Tools
+<div>
+    <img src="https://img.shields.io/badge/Node.js-gray?style=for-the-badge" alt="Node.js" />
+    <img src="https://img.shields.io/badge/TailwindCSS-gray?style=for-the-badge" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/React-gray?style=for-the-badge" alt="React" />
+    <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge" alt="Linux" />
+    <img src="https://img.shields.io/badge/macOS-gray?style=for-the-badge" alt="macOS" />
+</div>
 
 ---
 
