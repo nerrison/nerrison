@@ -7,7 +7,7 @@
 ---
 > Together, our combined effort and commitment can overcome any challenge. Let's push through to commit and resolve
 
-- Nerrison
+ Nerrison
 
 ---
 
@@ -19,7 +19,7 @@ Passionate about computer science with a special love for embedded systems and c
 ## Technologies & Tools
 (technologies should in a pie chart form an automatically check my repos to draw the picutre on percentages i have used a language the colors should be gray colors)(Tool use labels should be gray, nodejs, tailwindcss, react, linux, macos, )
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact)
 
 
 ---
