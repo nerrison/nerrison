@@ -35,12 +35,13 @@ Passionate about computer science with a special love for embedded systems and c
 
 ## Activity 
 
-<!-- GitHub Activity -->
-<img src="https://github-readme-stats.vercel.app/api/activity?username=nerrison" alt="GitHub Activity" style="width: 45%; height: auto; display: inline-block; vertical-align: baseline;">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nerrison&theme=dracula" alt="GitHub Profile Summary" style="width: 45%; height: auto; display: inline-block; vertical-align: middle;" />
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nerrison&theme=dark" alt="GitHub Contribution Graph" style="width: 45%; height: auto; display: inline; vertical-align: baseline;"> <img src="https://github-readme-stats.vercel.app/api?username=nerrison&show_icons=true&hide_title=true" alt="GitHub Stats" style="width: 45%; height: auto; display: inline; vertical-align: baseline; margin left:100px" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nerrison&theme=dark" alt="GitHub Contribution Graph" style="width: 45%; height: auto; display: inline; vertical-align: baseline;"> <img src="https://github-readme-stats.vercel.app/api?username=nerrison&show_icons=true&hide_title=true" alt="GitHub Stats" style="width: 45%; height: auto; display: inline; vertical-align: baseline; left:100px" />
 
 
 
