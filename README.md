@@ -31,11 +31,8 @@ Passionate about computer science with a special love for embedded systems and c
 > Shy 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nerrison/nerrison/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nerrison/nerrison/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nerrison/nerrison/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/holic-x/nerrison/output/github-contribution-grid-snake-dark.svg" style="visibility:visible;max-width:100%;">
 </picture>
-
 
 
 ### Tools
