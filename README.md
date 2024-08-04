@@ -8,9 +8,8 @@
 
 ---
 > Together, our combined effort and commitment can overcome any challenge. Let's push through to commit and resolve
-<div align="right" style="padding-right:150px;">
+
  ~ Nerrison
-</div>
 
 ---
 
@@ -26,6 +25,7 @@ Passionate about computer science with a special love for embedded systems and c
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=nerrison&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000000&icon_color=000000&bg_color=ffffff&theme=graywhite" alt="GitHub Stats" style="max-width: 100%;" /> 
     
 </div>
+
 
 
 ### Tools
