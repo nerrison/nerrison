@@ -18,17 +18,18 @@ Passionate about computer science with a special love for embedded systems and c
 
 ## Technologies & Tools
 
-
-    
-## Top Languages</h3>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact" alt="Top langauges" style="width: 45%; height: auto; display: inline-block; vertical-align: top;"/> <img src="https://github-readme-stats.vercel.app/api?username=nerrison&show_icons=true&hide_title=true" alt="GitHub Stats" style="width: 45%; height: auto; display: inline-block; vertical-align: top;">
+<div style="display: flex; flex-direction: row; gap: 20px; align-items: stretch;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact" alt="Top Languages" style="width: 45%; height: auto; flex-grow: 1;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=nerrison&show_icons=true&hide_title=true" alt="GitHub Stats" style="width: 45%; height: auto; flex-grow: 1;"/>
+</div>
 
 
 ### Tools
 <div>
-    <img src="https://img.shields.io/badge/Node.js-gray?style=for-the-badge" alt="Node.js" /> <img src="https://img.shields.io/badge/TailwindCSS-gray?style=for-the-badge" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/React-gray?style=for-the-badge" alt="React" /> <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge" alt="Linux" />
+    <img src="https://img.shields.io/badge/Node.js-gray?style=for-the-badge" alt="Node.js" /> 
+    <img src="https://img.shields.io/badge/TailwindCSS-gray?style=for-the-badge" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/React-gray?style=for-the-badge" alt="React" />
+     <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge" alt="Linux" />
     <img src="https://img.shields.io/badge/macOS-gray?style=for-the-badge" alt="macOS" />
 </div>
 
