@@ -22,12 +22,12 @@ Passionate about computer science with a special love for embedded systems and c
     <!-- Top Languages -->
     <div style="flex: 1;">
         <h3>Top Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact" alt="Top Languages" style="width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact" alt="Top Languages" style="width: 50%;">
     </div>
     <!-- Activity -->
     <div style="flex: 1;">
         <h3>Activity</h3>
-        <img src="https://github-readme-stats.vercel.app/api/activity?username=nerrison" alt="GitHub Activity" style="width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api/activity?username=nerrison" alt="GitHub Activity" style="width: 50%;">
     </div>
 </div>
 
