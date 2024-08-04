@@ -18,25 +18,19 @@ Passionate about computer science with a special love for embedded systems and c
 
 ## Technologies & Tools
 
-## Technologies & Tools
+### Top Langauages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact)
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-    <div style="flex: 1; margin-right: 20px;">
-        <h3>Top Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact" alt="Top Languages" style="max-width: 100%;">
-    </div>
-    <div style="flex: 1;">
-        <h3>Tools</h3>
-        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-            <img src="https://img.shields.io/badge/Node.js-gray?style=for-the-badge" alt="Node.js" />
-            <img src="https://img.shields.io/badge/TailwindCSS-gray?style=for-the-badge" alt="TailwindCSS" />
-            <img src="https://img.shields.io/badge/React-gray?style=for-the-badge" alt="React" />
-            <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge" alt="Linux" />
-            <img src="https://img.shields.io/badge/macOS-gray?style=for-the-badge" alt="macOS" />
-        </div>
-    </div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact)
+
+### Tools
+<div>
+    <img src="https://img.shields.io/badge/Node.js-gray?style=for-the-badge" alt="Node.js" />
+    <img src="https://img.shields.io/badge/TailwindCSS-gray?style=for-the-badge" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/React-gray?style=for-the-badge" alt="React" />
+    <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge" alt="Linux" />
+    <img src="https://img.shields.io/badge/macOS-gray?style=for-the-badge" alt="macOS" />
 </div>
-
 
 ---
 
