@@ -26,8 +26,13 @@ Passionate about computer science with a special love for embedded systems and c
     </div>
     <!-- Activity -->
     <div style="flex: 1;">
-        <h3>Activity</h3>
-        <img src="https://github-readme-stats.vercel.app/api/activity?username=nerrison" alt="GitHub Activity" style="width: 50%;">
+       <div>
+            <img src="https://img.shields.io/badge/Node.js-gray?style=for-the-badge" alt="Node.js" />
+            <img src="https://img.shields.io/badge/TailwindCSS-gray?style=for-the-badge" alt="TailwindCSS" />
+            <img src="https://img.shields.io/badge/React-gray?style=for-the-badge" alt="React" />
+            <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge" alt="Linux" />
+            <img src="https://img.shields.io/badge/macOS-gray?style=for-the-badge" alt="macOS" />
+        </div>
     </div>
 </div>
 
@@ -43,6 +48,12 @@ Passionate about computer science with a special love for embedded systems and c
 ---
 
 ## Activity
+
+![GitHub Activity](https://github-readme-stats.vercel.app/api/activity?username=nerrison) ![trophy](https://github-profile-trophy.vercel.app/?username=nerrison)
+
+
+![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=nerrison&theme=dark) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nerrison&show_icons=true&hide_title=true)
+
 
 
 
