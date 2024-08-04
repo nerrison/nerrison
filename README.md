@@ -18,9 +18,10 @@ Passionate about computer science with a special love for embedded systems and c
 
 ### Technologies & Tools
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact&hide_title=true" alt="Top Languages" style="width: 45%; height: auto; display: inline-block; vertical-align: baseline;" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerrison&theme=white" alt="GitHub Streak Stats" style="width: 45%; height: 200px; display: inline-block; vertical-align: baseline;" />
-
-
+<a href="https://www.adamalston.com/" rel="nofollow">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=nerrison&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000000&icon_color=000000&bg_color=ffffff&theme=graywhite" alt="GitHub Stats" style="max-width: 100%;" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000000&icon_color=ffffff&bg_color=ffffff&theme=graywhite" alt="Top Languages" style="max-width: 100%;" />
+</a>
 
 ### Tools
 <div>
