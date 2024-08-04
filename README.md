@@ -1,7 +1,9 @@
 ## nerrison/public/profile
  
-<picture align= "center">
+<picture>
+<div  align= "center">
  <img alt="Matrix Rain Animation" src="/assets/rain.gif" style="width: 100%; height: 20%;">
+ </div>
 </picture>
 
 ---
