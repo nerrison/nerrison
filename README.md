@@ -32,19 +32,5 @@ Passionate about computer science with a special love for embedded systems and c
 </div>
 
 ---
-
-## Activity 
-
-
- <img src="https://github-readme-stats.vercel.app/api?username=nerrison&show_icons=true&hide_title=true" alt="GitHub Stats" style="width: 45%; height: auto; display: inline-block; vertical-align: middle;" />
-
-
-
----
-
-## What I'm up to
- manual 
-
----
 ## How to reach me
 how to reach me should be labels of gray shades (twitter.com/cnerrison, linkedin, i will add more later)
