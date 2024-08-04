@@ -8,9 +8,10 @@
 
 ---
 > Together, our combined effort and commitment can overcome any challenge. Let's push through to commit and resolve
-<div align="right">
+<div align="right" style="padding-right:150px;">
  ~ Nerrison
 </div>
+
 ---
 
 ## About
@@ -18,24 +19,13 @@ Passionate about computer science with a special love for embedded systems and c
 
 --- 
 
-### Technologies & Activity
+## Technologies & Activity
 
 <div align="center">
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000000&icon_color=ffffff&bg_color=ffffff&theme=graywhite" alt="Top Languages" style="max-width: 100%;" />
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=nerrison&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000000&icon_color=000000&bg_color=ffffff&theme=graywhite" alt="GitHub Stats" style="max-width: 100%;" /> 
     
 </div>
-
-## Contributions
-
-> Shy 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nerrison/nerrison/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nerrison/nerrison/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nerrison/nerrison/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
-</picture>
-
 
 
 ### Tools
@@ -51,4 +41,15 @@ Passionate about computer science with a special love for embedded systems and c
 
 ---
 ## How to reach me
-how to reach me should be labels of gray shades (twitter.com/cnerrison, linkedin, i will add more later)
+
+<div>
+  <a href="https://twitter.com/cnerrison" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:philipnerison26@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
