@@ -30,7 +30,7 @@ dynamicaly cuse github bot to update my activites, like push, commmit, created a
 ---
 
 ## What I'm up to
-this place will be manual leave it blank
+ manual 
 
 ---
 ## How to reach me
