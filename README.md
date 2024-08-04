@@ -18,17 +18,17 @@ Passionate about computer science with a special love for embedded systems and c
 
 ## Technologies & Tools
 
-### Top Langauages                                                                                              ###Activities
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact)         11111
+### Top Languages & Tools     
 
-### Tools
-<div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact)      <div>
     <img src="https://img.shields.io/badge/Node.js-gray?style=for-the-badge" alt="Node.js" />
     <img src="https://img.shields.io/badge/TailwindCSS-gray?style=for-the-badge" alt="TailwindCSS" />
     <img src="https://img.shields.io/badge/React-gray?style=for-the-badge" alt="React" />
     <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge" alt="Linux" />
     <img src="https://img.shields.io/badge/macOS-gray?style=for-the-badge" alt="macOS" />
-</div>
+</div>    
+
+
 
 ---
 
