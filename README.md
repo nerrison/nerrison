@@ -18,10 +18,9 @@ Passionate about computer science with a special love for embedded systems and c
 
 ## Technologies & Tools
 
-<div style="display: flex; flex-direction: row; gap: 20px; align-items: stretch;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact" alt="Top Languages" style="width: 45%; height: auto; flex-grow: 1;"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=nerrison&show_icons=true&hide_title=true" alt="GitHub Stats" style="width: 45%; height: auto; flex-grow: 1;"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact" alt="Top Languages" style="width: 45%; height: 200px; display: inline-block; vertical-align: top;" />
+<img src="https://github-readme-stats.vercel.app/api?username=nerrison&show_icons=true&hide_title=true" alt="GitHub Stats" style="width: 45%; height: 200px; display: inline-block; vertical-align: top;" />
+
 
 
 ### Tools
