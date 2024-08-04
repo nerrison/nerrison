@@ -18,10 +18,8 @@ Passionate about computer science with a special love for embedded systems and c
 
 ## Technologies & Tools
 
-### Top Langauages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact)           ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact)
-
-
+### Top Langauages                                                                                              ###Activities
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&layout=compact)         11111
 
 ### Tools
 <div>
