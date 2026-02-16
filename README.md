@@ -22,7 +22,7 @@ Passionate about computer science with a special love for embedded systems and c
 
 <div align="center">
     <img height="137px" src="https://github-readme-stats-fast.vercel.app/api?username=nerrison" />
-    <img height="137px" src=https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nerrison" />
+    <img height="137px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nerrison" />
 
 </div>
 
