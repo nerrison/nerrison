@@ -51,7 +51,7 @@ Passionate about computer science with a special love for embedded systems and c
   <a href="https://twitter.com/cnerrison" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://linkedin.com/in/nerrison" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:philipnerison26@gmail.com" target="_blank">
