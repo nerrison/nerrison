@@ -20,7 +20,7 @@ Passionate about computer science with a special love for embedded systems and c
 
 ## Technologies & Activity
 
-<div align="center">
+<div align="">
   <!-- GitHub Stats -->
   <img height="250px" 
        src="https://github-readme-stats-fast.vercel.app/api?username=nerrison&bg_color=transparent&text_color=000000&icon_color=000000&show_icons=true&count_private=true&include_all_commits=true" />
