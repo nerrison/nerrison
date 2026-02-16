@@ -21,8 +21,8 @@ Passionate about computer science with a special love for embedded systems and c
 ## Technologies & Activity
 
 <div align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerrison&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000000&icon_color=ffffff&bg_color=ffffff&theme=graywhite" alt="Top Languages" style="max-width: 100%;" />
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=nerrison&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000000&icon_color=000000&bg_color=ffffff&theme=graywhite" alt="GitHub Stats" style="max-width: 100%;" />
+    <img height="137px" src="https://github-readme-stats-fast.vercel.app/api?username=nerrison" />
+    <img height="137px" src=https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nerrison" />
 
 </div>
 
