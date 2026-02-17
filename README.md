@@ -32,7 +32,7 @@
     └┐││││┌┘                                                                                                                            └┐││││┌┘
     ┌┘││││└┐ >> Introduction                                                                                                            ┌┘││││└┐
     └┐││││┌┘       Hi,                                                                                                                  └┐││││┌┘
-    ┌┘└┘└┘└┐        I am Nerrison and  am a C developer exploring low-level systems and systems programming.                            ┌┘└┘└┘└┐
+    ┌┘└┘└┘└┐        I am Nerrison and a C developer exploring low-level systems and systems programming.                                ┌┘└┘└┘└┐
     |┌─┐┌─┐│                                                                                                                            |┌─┐┌─┐│
     ││┌┘└┐│|         > What am I currently working on?                                                                                  ││┌┘└┐│|
     ││└┐┌┘││         Currently working on small systems-level projects to deepen my understanding of memory and OS concepts.            ││└┐┌┘││
