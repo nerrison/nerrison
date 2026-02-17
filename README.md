@@ -30,11 +30,11 @@
     └┘└┐┌┘└┘|└────── =+#@@@@@ ────────────────────────────███ ─  ███ ─ ███ ── ███ ──────────────────────────────────── ##+=───────────┘|└┘└┐┌┘└┘
     ┌─┐││┌─┐└─────────── -+#%@@ ───────────────────────────────────────────────────────────────────────────────────────────────────────┘┌─┐││┌─┐
     └┐││││┌┘                                                                                                                            └┐││││┌┘
-    ┌┘││││└┐ ## &gt;&gt;Introduction&lt;&lt;                                                                                                        ┌┘││││└┐
+    ┌┘││││└┐ >> Introduction                                                                                                            ┌┘││││└┐
     └┐││││┌┘       Hi,                                                                                                                  └┐││││┌┘
     ┌┘└┘└┘└┐        I am Nerrison and  am a C developer exploring low-level systems and systems programming.                            ┌┘└┘└┘└┐
     |┌─┐┌─┐│                                                                                                                            |┌─┐┌─┐│
-    ││┌┘└┐│|         &gt; What am I currently working on?                                                                                  ││┌┘└┐│|
+    ││┌┘└┐│|         > What am I currently working on?                                                                                  ││┌┘└┐│|
     ││└┐┌┘││         Currently working on small systems-level projects to deepen my understanding of memory and OS concepts.            ││└┐┌┘││
     ││┌┘└┐││                                                                                                                            ││┌┘└┐││
     └┘└┐┌┘└┘           ┌────────┐                                                                                                       └┘└┐┌┘└┘
@@ -45,7 +45,7 @@
     ┌┘└┘└┘└┐          |  OS fundamentals         |                                                                                      ┌┘└┘└┘└┐
     |┌─┐┌─┐│          └──────────────────────────┘                                                                                      |┌─┐┌─┐│
     ││┌┘└┐│|                                                                                                                            ││┌┘└┐│|
-    ││└┐┌┘││    # &gt; Tools                                                                                                               ││└┐┌┘││
+    ││└┐┌┘││    >> Tools                                                                                                                ││└┐┌┘││
     ││┌┘└┐││               ┌───────────┐                         ┌───────────────────┐                                                  ││┌┘└┐││
     └┘└┐┌┘└┘               | Languages |                         | Compilers & Build |                                                  └┘└┐┌┘└┘
     ┌─┐││┌─┐             ┌─────────────────────────────┐       ┌──────────────────────────────┐                                         ┌─┐││┌─┐
@@ -63,7 +63,7 @@
     ┌┘││││└┐                                                            | Microcontroller sim..Firmware testing              |          ┌┘││││└┐
     └┐││││┌┘                                                            └────────────────────────────────────────────────────┘          └┐││││┌┘
     ┌┘└┘└┘└┐                                                                                                                            ┌┘└┘└┘└┐
-    |┌─┐┌─┐│    # &gt; How to reach me                                                                                                     |┌─┐┌─┐│
+    |┌─┐┌─┐│    >> How to reach me                                                                                                      |┌─┐┌─┐│
     ││┌┘└┐│|      > <a href ="https://x.com/cnerrison" style="text-decoration: none; color: red;">Twitter</a>                                                                                                             ││┌┘└┐│|
     ││└┐┌┘││      > <a href ="https://linkedin.com/in/nerrison" style="text-decoration: none; color: red;">LinkedIn</a>                                                                                                            ││└┐┌┘││
     ││┌┘└┐││      > <a href ="mailto:philipnerison26@gmail.com" style="text-decoration: none; color: red;">Mail</a>                                                                                                                ││┌┘└┐││
