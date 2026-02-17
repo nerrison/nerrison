@@ -1,60 +1,76 @@
-## nerrison/public/profile
-
-<picture>
-<div  align= "center">
- <img alt="Matrix Rain Animation" src="/assets/rain.gif" style="width: 100%; height: 20%;">
- </div>
-</picture>
-
----
-> Together, our combined effort and commitment can overcome any challenge. Let's push through to commit and resolve
-
- ~ Nerrison
-
----
-
-## About
-Passionate about computer science with a special love for embedded systems and cybersecurity. An avid gamer who enjoys both video and mobile games. Curious and always eager to learn new things.
-
----
-
-## Technologies & Activity
-
-<div align="center">
-  <!-- GitHub Stats -->
-  <img height="250px" 
-       src="https://github-readme-stats-fast.vercel.app/api?username=nerrison&bg_color=transparent&text_color=000000&icon_color=000000&show_icons=true&count_private=true&include_all_commits=true" />
-
-  <!-- Top Languages -->
-  <img height="250px" 
-       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nerrison&bg_color=transparent&text_color=000000&layout=compact" />
-</div>
-
-
-
-
-### Tools
-<div align=" center">
-    <img src="https://img.shields.io/badge/Node.js-gray?style=for-the-badge" alt="Node.js" />
-    <img src="https://img.shields.io/badge/TailwindCSS-gray?style=for-the-badge" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/React-gray?style=for-the-badge" alt="React" />
-    <img src="https://img.shields.io/badge/Vscode-gray?style=for-the-badge" alt="Vscode" />
-    <img src="https://img.shields.io/badge/Git-gray?style=for-the-badge" alt="Git" />
-     <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge" alt="Linux" />
-    <img src="https://img.shields.io/badge/macOS-gray?style=for-the-badge" alt="macOS" />
-</div>
-
----
-## How to reach me
-
-<div>
-  <a href="https://twitter.com/cnerrison" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/nerrison" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:philipnerison26@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
-  </a>
+<div style="font-family: monospace; white-space: pre; line-height: 1.2; color: limegreen; background-color: black; padding: 10px;">
+<pre>
+┌──────┐┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐┌──────┐
+│┌─┐┌─┐││ untitled-1.exe                                                                                                     _ □ x ││┌─┐┌─┐│
+││┌┘└┐│||┌──────────────────────────────────────────────────────────────────────────────────────────── *#%%%##@@@@% ──────────────┐|││┌┘└┐│|
+││└┐┌┘││||              @@*  %@%#**#                                                                @@@%%@@@@@@@@@@@#             ||││└┐┌┘││
+││┌┘└┐││||           @@@@@@@@@@@@@@@@%@                                                         @@@@@@@@@@@@%%@@@@%*=             ||││┌┘└┐││
+└┘└┐┌┘└┘||           %@@@@@@@@@@@@@@@@@@@%                                                      @@@@%%%@%#*++***++*#+=            ||└┘└┐┌┘└┘
+┌─┐││┌─┐||           *#%#++**++***%@#+##*                                                              ---    --+*%#*++%%@@@@#    ||┌─┐││┌─┐
+└┐││││┌┘||          *##**=--                                                                                  --+##%@@@@@@@@@*    ||└┐││││┌┘
+┌┘││││└┐||   @@@@%%*+*#*+--                  @@@@%+=-==                            --=*%@@@%%#%               #%@@@@@@@@@@@@%+    ||┌┘││││└┐
+└┐││││┌┘||   @@@@@@@@@@@@@#+=-           @@@@@@@@@@@%++==                           +==+%@@@@@%@@@@@@@@@@%%#**@@@@@@@@@@#*+====-  ||└┐││││┌┘
+┌┘└┘└┘└┐||   %%@@@@@@@@@@@@@@@@#*#%@@@@@@%#######**++==                               ==++**####**+***###**#@@@@@@@@%*+=--======= ||┌┘└┘└┘└┐
+|┌─┐┌─┐│||  +====+*#%@@@@@@@@@@%******++==+++++==--                                   -=====+++===+***++==*@@%#*+==-===-==**+++== |||┌─┐┌─┐│
+││┌┘└┐│|||   ======--====+*#%%@@%+==++++===-===---                                          --===--------=======-------==+**@@***++==│┌┘└┐│|
+││└┐┌┘││||   ++++*#=====------======------                                                               -----------------=+==+%@@@@+==┐┌┘││
+││┌┘└┐││||=++***@%*++=----------------                                                                    ---------------=+%@@@@@@@+=|┌┘└┐││
+└┘└┐┌┘└┘|++#@@@%+-=+=---------------                                                                         ---------=+#@@@@@@@@@@*++=┐┌┘└┘
+┌─┐││┌─┐+#@@@@@@@#+==-----------                                                                                  +*%@@@@@@@@%***+=++=┐││┌─┐
+└┐││││┌┘++*@@@@@@@@@@@@%+==--███▄▄▄▄     ▄████████    ▄████████    ▄████████   ▄█     ▄████████  ▄██████▄   ███▄▄▄▄@@@@@@@@@@#+*%%%#*==*+│┌┘
+┌┘││││└┐+++=**+*%@@@@@@@@@@@%███▀▀▀██▄  ███    ███   ███    ███   ███    ███  ███    ███    ███ ███    ███  ███▀▀▀██▄@@@@@@#**=---*##*#+=*#+
+└┐││││┌┘*+==*#%%%#=*%%@@@@@@@@██   ███  ███    █▀    ███    ███   ███    ███  ███▌   ███    █▀  ███    ███  ███   ██===---------=*%@@***=-┌┘
+┌┘└┘└┘└┐*#+=+#*##*-----=+++*#*██   ███  ▄███▄▄▄      ▄███▄▄▄▄██▀  ▄███▄▄▄▄██▀ ███▌   ███        ███    ███  ███   ███    ---+#@@@@+=-┘└┘└┘└┐
+|┌─┐┌─┐│+**+%@%*+-------     ███   ███ ▀▀███▀▀▀     ▀▀███▀▀▀▀▀   ▀▀███▀▀▀▀▀   ███▌ ▀███████████ ███    ███  ███   ███   *%@@@%+=  |||┌─┐┌─┐|
+││┌┘└┐│|++*@@@%+=---         ███   ███   ███    █▄  ▀███████████ ▀███████████ ███           ███ ███    ███  ███   ███ %@@@@@#+=   ||││┌┘└┐│|
+││└┐┌┘││=+%@@@@%*+           ███   ███   ███    ███   ███    ███   ███    ███ ███     ▄█    ███ ███    ███  ███   ███@@@@#+-:     ||││└┐┌┘││
+││┌┘└┐││||   +*#@@@@@%        ▀█   █▀    ██████████   ███    ███   ███    ███ █▀    ▄████████▀   ▀██████▀    ▀█   █▀@@@@%+=- @nerrison┌┘└┐││
+└┘└┐┌┘└┘|└────── =+#@@@@@ ────────────────────────────███ ─  ███ ─ ███ ── ███ ──────────────────────────────────── ##+=───────────┘|└┘└┐┌┘└┘
+┌─┐││┌─┐└─────────── -+#%@@ ───────────────────────────────────────────────────────────────────────────────────────────────────────┘┌─┐││┌─┐
+└┐││││┌┘                                                                                                                            └┐││││┌┘
+┌┘││││└┐ ##&gt;&gt;Introduction&lt;&lt;##                                                                                           ┌┘││││└┐
+└┐││││┌┘       Hi,                                                                                                                  └┐││││┌┘
+┌┘└┘└┘└┐        I am Nerrison and  am a C developer exploring low-level systems and systems programming.                            ┌┘└┘└┘└┐
+|┌─┐┌─┐│                                                                                                                            |┌─┐┌─┐│
+││┌┘└┐│|         &gt; What am I currently working on?                                                                               ││┌┘└┐│|
+││└┐┌┘││         Currently working on small systems-level projects to deepen my understanding of memory and OS concepts.            ││└┐┌┘││
+││┌┘└┐││                                                                                                                            ││┌┘└┐││
+└┘└┐┌┘└┘           ┌────────┐                                                                                                       └┘└┐┌┘└┘
+┌─┐││┌─┐           |  Focus |                                                                                                       ┌─┐││┌─┐
+└┐││││┌┘          ┌──────────────────────────┐                                                                                      └┐││││┌┘
+┌┘││││└┐          |  Systems Programming (C) |                                                                                      ┌┘││││└┐
+└┐││││┌┘          |  Embedded & Firmware     |                                                                                      └┐││││┌┘
+┌┘└┘└┘└┐          |  OS fundamentals         |                                                                                      ┌┘└┘└┘└┐
+|┌─┐┌─┐│          └──────────────────────────┘                                                                                      |┌─┐┌─┐│
+││┌┘└┐│|                                                                                                                            ││┌┘└┐│|
+││└┐┌┘││    # &gt; Tools                                                                                                            ││└┐┌┘││
+││┌┘└┐││               ┌───────────┐                         ┌───────────────────┐                                                  ││┌┘└┐││
+└┘└┐┌┘└┘               | Languages |                         | Compilers & Build |                                                  └┘└┐┌┘└┘
+┌─┐││┌─┐             ┌─────────────────────────────┐       ┌──────────────────────────────┐                                         ┌─┐││┌─┐
+└┐││││┌┘             | C.........Low-levl systems  |       | GCC/Clang...C compilation    |      ┌───────────┐                      └┐││││┌┘
+┌┘││││└┐        ┌─── | Assembly..Hardware concepts | ────  | Make/CMake..Build management | ──── | Debugging |                      ┌┘││││└┐
+└┐││││┌┘        |    └─────────────────────────────┘       └──────────────────────────────┘  ┌────────────────────────────┐         └┐││││┌┘
+┌┘└┘└┘└┐        |                                                                            | GDB.......Debug programs   |         ┌┘└┘└┘└┐
+|┌─┐┌─┐│        |   ┌─────────────────┐                                                      | Valgrind..Memory analysis  |         |┌─┐┌─┐│
+││┌┘└┐│|        └── | Version Control |                                                      | perf......System profiling |         ││┌┘└┐│|
+││└┐┌┘││           ┌──────────────────────┐                                             ┌─── └────────────────────────────┘         ││└┐┌┘││
+││┌┘└┐││           | Git..Code Management |                           ┌──────────────────────────────┐                              ││┌┘└┐││
+└┘└┐┌┘└┘           └──────────────────────┘                           | Embedded/Firmware (Software) |                              └┘└┐┌┘└┘
+┌─┐││┌─┐                                                            ┌────────────────────────────────────────────────────┐          ┌─┐││┌─┐
+└┐││││┌┘                                                            | QEMU.................CPU/microcontroller emulation |          └┐││││┌┘
+┌┘││││└┐                                                            | Microcontroller sim..Firmware testing              |          ┌┘││││└┐
+└┐││││┌┘                                                            └────────────────────────────────────────────────────┘          └┐││││┌┘
+┌┘└┘└┘└┐                                                                                                                            ┌┘└┘└┘└┐
+|┌─┐┌─┐│   # &gt; How to reach me                                                                                                   |┌─┐┌─┐│
+││┌┘└┐│|          > <a href ="https://x.com/cnerrison" target="_blank">Twitter</a>                                                  ││┌┘└┐│|
+││└┐┌┘││          > <a href ="https://linkedin.com/in/nerrison" target="_blank">LinkedIn</a>                                        ││└┐┌┘││
+││┌┘└┐││          > <a href ="mailto:philipnerison26@gmail.com">Mail</a>                                                            ││┌┘└┐││
+└┘└┐┌┘└┘                                                                                                                            └┘└┐┌┘└┘
+┌─┐││┌─┐                                                                                                                            ┌─┐││┌─┐
+└┐││││┌┘    01100011 01100001 01101110 00100111 01110100 01100011 01101111 01100100 01100101 01110100 01101111 01110011 01100001    └┐││││┌┘
+┌┘││││└┐                      01110110 01100101 01101101 01111001 01101100 01101001 01100110 01100101                               ┌┘││││└┐
+└┐││││┌┘                                                                                                                            └┐││││┌┘
+┌┘└┘└┘└┐                                                                                                                            ┌┘└┘└┘└┐
+└──────┘                              > Inspo <a href = "https://x86re.com/1.html"> @0x6D6172636F</a>                               └──────┘
+</pre>
 </div>
