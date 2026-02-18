@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <body style=" line-height: 1;  max-width:fit-content;">
-        <p align="center" style="font-family: monospace;">
+        <p style="font-family: monospace;">
             <pre>
 ┌──────┐┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────┐┌──────┐
 │┌─┐┌─┐││ untitled-1.exe                                                                                        _ □ x ││┌─┐┌─┐│
@@ -32,21 +32,21 @@
 ┌─┐││┌─┐└─── +#%@@ ───────────────────────────────────────────────────────────────────────────────────────────────────┘┌─┐││┌─┐
 └┐││││┌┘                                                                                                               └┐││││┌┘
 ┌┘││││└┐ >> Introduction                                                                                               ┌┘││││└┐
-└┐││││┌┘       Hi,                                                                                                     └┐││││┌┘
-┌┘└┘└┘└┐        I am Nerrison and a C developer exploring low-level systems and systems programming.                   ┌┘└┘└┘└┐
-|┌─┐┌─┐│                                                                                                               |┌─┐┌─┐│
-││┌┘└┐│|     > What am I currently working on?                                                                         ││┌┘└┐│|
-││└┐┌┘││       Currently working on small systems-level projects to deepen my understanding of memory and OS concepts. ││└┐┌┘││
+└┐││││┌┘      Hi, I'm Nerrison — a C developer passionate about low-level systems programming.                         └┐││││┌┘
+┌┘└┘└┘└┐                                                                                                               ┌┘└┘└┘└┐
+|┌─┐┌─┐│      > What am I currently working on?                                                                        |┌─┐┌─┐│
+││┌┘└┐│|         I’m primarily focused on embedded firmware development, exploring how software interacts directly     ││┌┘└┐│|
+││└┐┌┘││         with hardware..                                                                                       ││└┐┌┘││
 ││┌┘└┐││                                                                                                               ││┌┘└┐││
-└┘└┐┌┘└┘           ┌────────┐                                                                                          └┘└┐┌┘└┘
-┌─┐││┌─┐           |  Focus |                                                                                          ┌─┐││┌─┐
-└┐││││┌┘          ┌──────────────────────────┐                                                                         └┐││││┌┘
-┌┘││││└┐          |  Systems Programming (C) |                                                                         ┌┘││││└┐
-└┐││││┌┘          |  Embedded & Firmware     |                                                                         └┐││││┌┘
-┌┘└┘└┘└┐          |  OS fundamentals         |                                                                         ┌┘└┘└┘└┐
-|┌─┐┌─┐│          └──────────────────────────┘                                                                         |┌─┐┌─┐│
+└┘└┐┌┘└┘         I also explore operating system internals, memory management, and kernel-level concepts to build a    └┘└┐┌┘└┘
+┌─┐││┌─┐         strong foundation in low-level system design.                                                         ┌─┐││┌─┐
+└┐││││┌┘                                                                                                               └┐││││┌┘
+┌┘││││└┐                                                                                                               ┌┘││││└┐
+└┐││││┌┘                                                                                                               └┐││││┌┘
+┌┘└┘└┘└┐                                                                                                               ┌┘└┘└┘└┐
+|┌─┐┌─┐│                                                                                                               |┌─┐┌─┐│
 ││┌┘└┐│|                                                                                                               ││┌┘└┐│|
-││└┐┌┘││    >> Tools                                                                                                   ││└┐┌┘││
+││└┐┌┘││ >> Tools                                                                                                      ││└┐┌┘││
 ││┌┘└┐││          ┌───────────┐                         ┌───────────────────┐                                          ││┌┘└┐││
 └┘└┐┌┘└┘          | Languages |                         | Compilers & Build |                                          └┘└┐┌┘└┘
 ┌─┐││┌─┐        ┌─────────────────────────────┐       ┌──────────────────────────────┐                                 ┌─┐││┌─┐
@@ -64,7 +64,7 @@
 ┌┘││││└┐                                                      | Microcontroller sim..Firmware testing              |   ┌┘││││└┐
 └┐││││┌┘                                                      └────────────────────────────────────────────────────┘   └┐││││┌┘
 ┌┘└┘└┘└┐                                                                                                               ┌┘└┘└┘└┐
-|┌─┐┌─┐│    >> How to reach me                                                                                         |┌─┐┌─┐│
+|┌─┐┌─┐│ >> How to reach me                                                                                            |┌─┐┌─┐│
 ││┌┘└┐│|      > <a href ="https://x.com/cnerrison" style="text-decoration: none; color: red;">Twitter</a>                                                                                                ││┌┘└┐│|
 ││└┐┌┘││      > <a href ="https://linkedin.com/in/nerrison" style="text-decoration: none; color: red;">LinkedIn</a>                                                                                               ││└┐┌┘││
 ││┌┘└┐││      > <a href ="mailto:philipnerison26@gmail.com" style="text-decoration: none; color: red;">Mail</a>                                                                                                   ││┌┘└┐││
