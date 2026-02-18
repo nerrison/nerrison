@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
     <body style=" line-height: 1;  max-width:fit-content;">
-        <pre style="font-family: monospace;">
+        <div align="center">
+            <pre style="font-family: monospace;">
     ┌──────┐┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐┌──────┐
     │┌─┐┌─┐││ untitled-1.exe                                                                                                     _ □ x ││┌─┐┌─┐│
     ││┌┘└┐│||┌──────────────────────────────────────────────────────────────────────────────────────────── *#%%%##@@@@% ──────────────┐|││┌┘└┐│|
@@ -74,6 +75,7 @@
     └┐││││┌┘                                                                                                                            └┐││││┌┘
     ┌┘└┘└┘└┐                                                                                                                            ┌┘└┘└┘└┐
     └──────┘                                                        > Inspo <a href = "https://x86re.com/1.html" style="text-decoration: none; color: red;"> @0x6D6172636F</a>                                              └──────┘
-        </pre>
+            </pre>
+        </div>
     </body>
 </html>
